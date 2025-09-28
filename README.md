@@ -239,8 +239,3 @@ sudo pacman -S --noconfirm --needed gcc make git ripgrep fd unzip neovim
 ```
 </details>
 
-# my_neovim
-# my_neovim
-# my_neovim
-# nvim
-# nvim
